@@ -1,0 +1,24 @@
+/ip pool
+add name=Expired ranges=172.172.0.2-172.172.7.254
+add name=PP-500 ranges=10.16.40.2-10.16.47.254
+add name=PP-600 ranges=10.16.8.2-10.16.8.254
+add name=PP-700 ranges=10.16.9.2-10.16.9.254
+add name=PP-800 ranges=10.16.10.2-10.16.10.254
+add name=PP-1000 ranges=10.16.11.2-10.16.11.254
+add name=PP-1200 ranges=10.16.12.2-10.16.12.254
+add name=PP-1500 ranges=10.16.13.2-10.16.13.254
+add name=PP-2000 ranges=10.16.14.2-10.16.14.254
+add name=PP-2500 ranges=10.16.15.2-10.16.15.254
+add name=PP-3000 ranges=10.16.16.2-10.16.16.254
+add name=PP-3500 ranges=10.16.17.2-10.16.17.254
+add name=PP-4000 ranges=10.16.18.2-10.16.18.254
+add name=PP-5000 ranges=10.16.19.2-10.16.19.254
+add name=PP-300 ranges=10.16.20.2-10.16.20.254
+add name=PP-400 ranges=10.16.21.2-10.16.21.254
+add name=FREE-PLAN-1 ranges=10.16.24.2-10.16.24.254
+add name=FREE-PLAN-2 ranges=10.16.25.2-10.16.25.254
+add name=FREE-PLAN-5 ranges=10.16.26.2-10.16.26.254
+add name=FREE-PLAN-10 ranges=10.16.27.2-10.16.27.254
+add name=FREE-PLAN-20 ranges=10.16.28.2-10.16.28.254
+add name=PACKAGE-D3-500/- ranges=10.16.22.2-10.16.22.254
+add name=PACKAGE-D4-500/- ranges=10.16.23.2-10.16.23.254
